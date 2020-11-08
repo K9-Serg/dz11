@@ -1,0 +1,29 @@
+.body{
+    margin: 0;
+    font-family: Gilroy;
+}
+
+.wrap{
+    width: 132.55;
+    margin: 0 auto;
+}
+.title{
+font-family: Gilroy-Bold;
+}
+
+.titlle_h3{
+font-size: 34px;
+line-height: 42px;
+letter-spacing: 0em;
+text-align: center;
+vertical-align: top;
+}
+
+.text{
+height: 43.063232421875px;
+width: 132.55015563964844px;
+left: 659.16552734375px;
+top: 1996.93359375px;
+border-radius: nullpx;
+color: #070707;
+}
